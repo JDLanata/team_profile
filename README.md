@@ -53,6 +53,19 @@ If user would like to run test, make sure they have Jest installed and linked to
 ---
 
 ## Screenshots 
+![team_profile_term](https://user-images.githubusercontent.com/87950670/137643331-30ffb250-5fe9-4072-a3c2-517e23dd6d1e.png)
+![team_profile_site](https://user-images.githubusercontent.com/87950670/137644493-7fe85a08-243d-43ab-8d80-3af4d722540a.png)
+![team_profile_term](https://user-images.githubusercontent.com/87950670/137644515-164c5c87-785b-40cd-84ad-d323cf60a855.png)
+
+
+
+https://user-images.githubusercontent.com/87950670/137644576-b3bef603-a31e-43db-a0ee-4e3f2dd679ae.mp4
+
+
+
+https://user-images.githubusercontent.com/87950670/137644620-16f74573-d9d2-4bde-b8e3-5c152e8ff252.mp4
+
+
 
 --
 ## Contact
