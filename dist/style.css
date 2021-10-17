@@ -1,0 +1,30 @@
+:root{
+    --header: #8C1F28;
+    --back: #BF344D;
+    --rose: #F24B6A;
+    --pale: #D9B596;
+    --dark: #261514;
+
+
+}
+
+
+body{
+    background-color: var(--dark);
+}
+
+.list-group-item{
+    background-color: var(--pale);
+    color: var(--dark);
+}
+.jumbotron{
+background-color: var(--back);
+color: var(--pale);
+}
+.card-header{
+background-color: var(--rose);
+color: var(--header);
+}
+.card-body{
+    background-color: var(--pale);
+}
